@@ -1,5 +1,4 @@
 # Music-Genre-Prediction
-# Music-Genre-Prediction
 
 Aim - To build a machine learning model which classifies music into its respective genre.
 
